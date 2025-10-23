@@ -26,11 +26,11 @@ The analysis covers:
 
 **Cost Components Breakdown:** Detailed calculation of:
     
-    * Direct Materials (including adjustments for defects, scrap value).
+Direct Materials (including adjustments for defects, scrap value).
     
-    * Direct Labor (based on hourly wages and estimated production time).
+Direct Labor (based on hourly wages and estimated production time).
     
-    * Manufacturing Overhead (Fixed: depreciation of machinery, tools, jigs; Variable: electricity, measuring labor, outsourced anodizing, packaging, transport).
+Manufacturing Overhead (Fixed: depreciation of machinery, tools, jigs; Variable: electricity, measuring labor, outsourced anodizing, packaging, transport).
 
 **Cost Calculation & Quotation:** Summarized cost per unit and calculation of the final quotation price based on cost inputs and markup percentages (Manufacturing Expenses 90%, Fixed Factory Expenses 5%, Profit 5%).
 
